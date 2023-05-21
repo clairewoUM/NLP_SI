@@ -4,4 +4,4 @@
 
 ## Part 2. Zero-shot Learning
 
-## Part 3. Prompt-based Learning/Classifier
+## Part 3. Regular Classifier
